@@ -1,0 +1,11 @@
+{
+  "name": "Mostar City",
+  "description": "Complete cinematic travel portal for Mostar with 11 connected destinations, 4K cloud photo and video galleries, travel chronicles, Shanto Khan expedition page, and media management system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
